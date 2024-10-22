@@ -5,8 +5,8 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import Card from '../components/Card'; // Importa el componente Card
 import graphImage from '../assets/upc.jpg'; // Imagen para una tarjeta
-import timeImage from '../assets/upc.jpg'; // Imagen para otra tarjeta
-import analysisImage from '../assets/upc.jpg'; // Imagen para otra tarjeta
+import timeImage from '../assets/upc2.jpg'; // Imagen para otra tarjeta
+import analysisImage from '../assets/upc2.avif'; // Imagen para otra tarjeta
 
 function Home() {
   const navigate = useNavigate();
